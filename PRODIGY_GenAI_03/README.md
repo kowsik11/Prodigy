@@ -1,4 +1,4 @@
-# Task 3 - Image-to-Image Translation using Conditional GANs (pix2pix)
+# Task 3 - Image-to-Image Translation using Conditional GANs
 
 This project implements image-to-image translation using Conditional Adversarial Networks, based on the [pix2pix paper](https://phillipi.github.io/pix2pix/) by Phillip Isola *et al*.
 
