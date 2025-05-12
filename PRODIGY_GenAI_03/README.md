@@ -1,4 +1,4 @@
-# pix2pix: Image-to-Image Translation with Conditional Adversarial Networks
+# Image-to-Image Translation with Conditional Adversarial Networks
 
 > This project implements a image-to-image translation method as described in the paper - [Image-to-Image Translation with Conditional Adversarial Networks](https://phillipi.github.io/pix2pix/) by Phillip Isola *et al*. ([arXiv:1611.07004](https://arxiv.org/abs/1611.07004))
 
